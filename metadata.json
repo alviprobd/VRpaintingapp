@@ -1,0 +1,6 @@
+{
+  "name": "MuralTrace XR",
+  "description": "Mixed reality image tracing app for Meta Quest. Project, scale, and outline transparent artwork onto real-life walls and surfaces for murals and illustrations.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
